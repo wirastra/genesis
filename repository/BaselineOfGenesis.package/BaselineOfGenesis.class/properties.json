@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfGenesis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfGenesis",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
