@@ -1,0 +1,20 @@
+{
+	"category" : "Genesis-Thoughts-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"allRecords" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"trigger",
+		"feelings",
+		"unhelpfulThoughts",
+		"positiveFacts",
+		"negativeFacts",
+		"balancedPerspective",
+		"outcome" ],
+	"name" : "ThoughtRecord",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

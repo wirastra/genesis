@@ -1,0 +1,3 @@
+accessing
+unhelpfulThoughts
+	^ unhelpfulThoughts

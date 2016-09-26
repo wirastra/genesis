@@ -1,0 +1,14 @@
+{
+	"category" : "Genesis-Thoughts-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"thought" ],
+	"name" : "ThoughtComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

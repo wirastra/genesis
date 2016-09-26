@@ -1,0 +1,14 @@
+{
+	"category" : "Genesis-Thoughts-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"thought" ],
+	"name" : "NewThoughtTask",
+	"pools" : [
+		 ],
+	"super" : "WATask",
+	"type" : "normal" }
